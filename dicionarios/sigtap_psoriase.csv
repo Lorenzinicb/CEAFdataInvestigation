@@ -1,0 +1,23 @@
+﻿codigo_sigtap,nome_medicamento,principio_ativo,classe_terapeutica
+0604380011,Adalimumabe 40 mg injetável (Originador),Adalimumabe,Biológico Anti-TNF
+0604380062,Adalimumabe 40 mg injetável,Adalimumabe,Biológico Anti-TNF
+0604380127,Adalimumabe 40 mg injetável (Biossimilar A),Adalimumabe,Biológico Anti-TNF
+0604380135,Adalimumabe 40 mg injetável (Biossimilar B),Adalimumabe,Biológico Anti-TNF
+0604380020,Etanercepte 25 mg injetável,Etanercepte,Biológico Anti-TNF
+0604380038,Etanercepte 50 mg injetável (Originador),Etanercepte,Biológico Anti-TNF
+0604380100,Etanercepte 50 mg injetável (Biossimilar),Etanercepte,Biológico Anti-TNF
+0604690029,Secuquinumabe 150 mg/ml injetável,Secuquinumabe,Biológico Anti-IL17
+0604690037,"Ustequinumabe 45 mg/0,5 ml injetável",Ustequinumabe,Biológico Anti-IL12/23
+0604690045,"Risanquizumabe 75 mg/0,83 ml injetável",Risanquizumabe,Biológico Anti-IL23
+0604690053,Risanquizumabe 150 mg/ml caneta aplicadora,Risanquizumabe,Biológico Anti-IL23
+0604340028,Ciclosporina 25 mg cápsula,Ciclosporina,Imunossupressor Sistêmico
+0604340036,Ciclosporina 50 mg cápsula,Ciclosporina,Imunossupressor Sistêmico
+0604340044,Ciclosporina 100 mg cápsula,Ciclosporina,Imunossupressor Sistêmico
+0604340052,Ciclosporina 100 mg/ml solução oral,Ciclosporina,Imunossupressor Sistêmico
+0604530021,"Metotrexato 2,5 mg comprimido",Metotrexato,Imunossupressor Sistêmico
+0604530030,Metotrexato 25 mg/ml injetável,Metotrexato,Imunossupressor Sistêmico
+0604600011,Acitretina 10 mg cápsula,Acitretina,Retinoide Sistêmico
+0604600020,Acitretina 25 mg cápsula,Acitretina,Retinoide Sistêmico
+0604700016,Calcipotriol 50 mcg/g pomada (bisnaga 30 g),Calcipotriol,Tópico
+0604710011,"Clobetasol 0,5 mg/g creme (bisnaga 30 g)",Clobetasol,Tópico
+0604710020,"Clobetasol 0,5 mg/g solução capilar (frasco 50 g)",Clobetasol,Tópico

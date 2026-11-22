@@ -1,0 +1,12 @@
+# Ambiente virtual e cache do Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dados brutos e CSVs grandes do DATASUS (regeráveis pelos scripts)
+dadosApac/
+apac_sc_*.csv
+
+# Configurações locais de agente
+.agents/
